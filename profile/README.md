@@ -1,3 +1,3 @@
-# AdvPrPa Course Material (Weeks 1 - 9)
+# AdvPrPa Course Material
 
-This organization is the home of the code examples and exercises for the first part of the AdvPrPa course.
+This organization is the home of the code examples and exercises for the first part (weeks 1 - 9) of the AdvPrPa course.
